@@ -1,0 +1,15 @@
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\bin\Debug\net7.0\DemoCollection.exe
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\bin\Debug\net7.0\DemoCollection.deps.json
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\bin\Debug\net7.0\DemoCollection.runtimeconfig.json
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\bin\Debug\net7.0\DemoCollection.dll
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\bin\Debug\net7.0\DemoCollection.pdb
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.csproj.AssemblyReference.cache
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.AssemblyInfoInputs.cache
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.AssemblyInfo.cs
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.csproj.CoreCompileInputs.cache
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.dll
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\refint\DemoCollection.dll
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.pdb
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\DemoCollection.genruntimeconfig.cache
+C:\Users\iet10\Desktop\Dotnet\DemoCollection\obj\Debug\net7.0\ref\DemoCollection.dll
