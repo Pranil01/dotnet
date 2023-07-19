@@ -1,13 +1,27 @@
-﻿using HR;
+var builder = WebApplication.CreateBuilder(args);
 
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Pranil Kalyani");
+// Add services to the container.
+builder.Services.AddControllersWithViews();
 
+var app = builder.Build();
 
-Person thePerson1=new Person();
-DateTime bDate=new DateTime(1999,8,9);
-Person thePerson2=new Person("Pranil", "Kalyani",bDate,
-                    "9884578987","pranilkalyani@gmail.com");
-DateTime registrationdate=new DateTime(2018,6,22);
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
+}
 
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.Run();
